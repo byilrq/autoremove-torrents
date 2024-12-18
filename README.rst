@@ -10,6 +10,8 @@ Documentation: https://autoremove-torrents.readthedocs.io/en/latest/
 
 Readme version in other languages: `简体中文`_.
 
+https://autoremove-torrents.readthedocs.io/zh-cn/latest/config.html
+
 .. _简体中文: https://github.com/jerrymakesjelly/autoremove-torrents/blob/master/README-cn.rst
 
 .. |GithubActionsCI| image:: https://github.com/jerrymakesjelly/autoremove-torrents/actions/workflows/build.yml/badge.svg?branch=master
